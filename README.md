@@ -25,14 +25,14 @@ By Payment Type (Card, Cash, Wallet, etc.)
 By Trip Type (Day/Night)
 
 
-# Additional Enhancements:
+### Additional Enhancements:
 Dynamic Title – Update the chart title based on the selected measure.
 Slicers – Add filters for Date, City, and other interactive filters for deeper analysis.
 Tooltips – Show additional details like Average Booking Value or Trip Distance.
 Vehicle Type Analysis - Grid View in Power BI
 Create a grid table (matrix or table visual) to analyse key performance indicators like Total Bookings, Total Booking Value, Avg Booking Value, Total Trip Distance across different Vehicle Types in Uber trips.
 
-# Power BI Implementation:
+### Power BI Implementation:
 Use a Table or Matrix Visual to display Vehicle Type with the KPIs.
 Apply Conditional Formatting to highlight high and low values.
 Enable Sorting & Filtering for user interaction.
@@ -42,10 +42,10 @@ Identifying peak and off-peak booking days.
 Understanding the impact of external factors (holidays, events, weather) on ride demand.
 Supporting strategic planning for resource allocation and pricing adjustments.
 
-# Location Analysis
+### Location Analysis
 Understanding trip locations is crucial for optimizing ride distribution, demand forecasting, and operational efficiency. This analysis focuses on:
 
-## Most Frequent Pickup Point
+### Most Frequent Pickup Point
 Identify the most common starting locations for trips.
 Helps in optimizing driver availability and dynamic pricing strategies.
 Most Frequent Drop-off Point
@@ -61,7 +61,7 @@ Most Preferred Vehicle for Location Pickup
 Determine the most frequently booked vehicle type at each pickup location.
 Supports strategic vehicle distribution based on customer preferences and location demand.
 
-Other Implementation Enhancements for Uber Trip Analysis Dashboard
+### Other Implementation Enhancements for Uber Trip Analysis Dashboard
 Bookmark for Data Details 
 Add a "Data Details" bookmark to display a pop-up or side panel explaining:
 Meaning of key metrics (Total Bookings, Total Trip Distance, etc.).
